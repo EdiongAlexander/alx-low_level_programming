@@ -3,7 +3,8 @@
  * main -Entry point
  *
  * Return: Always 0 (Success)
- * This program prints the alphabets in lowercase except for letters 'q' and 'e'
+ * This program prints the alphabets in
+ * lowercase except for letters 'q' and 'e'
  */
 int main(void)
 {
